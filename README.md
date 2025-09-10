@@ -1,11 +1,26 @@
 # 💫 About Me:
-I am a DevOps Engineer specializing in designing and deploying scalable cloud-native solutions. My current focus is on leveraging Kubernetes, Docker, and GKE to build resilient systems while ensuring smooth CI/CD automation. I work extensively with Infrastructure as Code tools like Terraform and Ansible to automate infrastructure management and streamline cloud operations across platforms such as GCP, AWS, and Azure.
+⚒️ I’m currently working on
+Designing and deploying scalable cloud-native solutions that leverage Kubernetes, Docker, and GKE. My focus is on building resilient and production-ready infrastructure, improving CI/CD pipelines for faster delivery, and automating infrastructure management using Infrastructure as Code tools such as Terraform and Ansible.
 
-Collaboration excites me, especially on projects involving cloud-native architectures, production-ready DevOps pipelines, and open-source contributions around Kubernetes and Terraform. I am also keen on working with teams handling large-scale distributed systems and building efficient observability solutions to ensure reliability at scale.
+🤝 I’m looking to collaborate on
+Innovative cloud-native projects where DevOps practices can create real impact. I am particularly interested in contributing to open-source initiatives, helping teams build production-ready DevOps pipelines, and collaborating on Kubernetes and Terraform-based solutions for cloud platforms like GCP, AWS, and Azure.
 
-At present, I am expanding my expertise in advanced Kubernetes patterns, such as Operators and Service Meshes, while also adopting Site Reliability Engineering (SRE) practices. In addition, I am learning more about cloud security and cost optimization strategies to create sustainable and secure deployments.
+👐 I’m looking for help with
+Scaling large, distributed systems that require high availability and performance. I’m also exploring advanced strategies for observability, monitoring, and GitOps workflows that can improve developer experience and system reliability at scale.
 
-You can reach out to me to discuss topics like CI/CD automation, GitOps workflows, container orchestration, observability with Prometheus, Grafana, and ELK, or broader aspects of DevOps career growth. I enjoy turning complex DevOps challenges into simple, automated workflows, and strongly believe that automation is the closest thing to magic in technology.
+🌱 I’m currently learning
+
+Advanced Kubernetes patterns, including Operators and Service Meshes
+
+Site Reliability Engineering (SRE) principles for reliability and performance
+
+Cloud security and cost optimization strategies for efficient deployments
+
+💬 Ask me about
+CI/CD automation, container orchestration, cloud-native deployments, observability with Prometheus, Grafana, and ELK, as well as career growth in DevOps.
+
+⚡ Fun fact
+I love breaking down complex DevOps challenges into simple, automated workflows—because automation is the closest thing to magic in technology.
 
 
 ## 🌐 Socials:
