@@ -1,26 +1,21 @@
 # 💫 About Me:
 ⚒️ I’m currently working on
-Designing and deploying scalable cloud-native solutions that leverage Kubernetes, Docker, and GKE. My focus is on building resilient and production-ready infrastructure, improving CI/CD pipelines for faster delivery, and automating infrastructure management using Infrastructure as Code tools such as Terraform and Ansible.
+Designing cloud-native solutions with Kubernetes, Docker, and GKE, improving CI/CD automation pipelines.
 
 🤝 I’m looking to collaborate on
-Innovative cloud-native projects where DevOps practices can create real impact. I am particularly interested in contributing to open-source initiatives, helping teams build production-ready DevOps pipelines, and collaborating on Kubernetes and Terraform-based solutions for cloud platforms like GCP, AWS, and Azure.
+Building cloud-native pipelines, open-source contributions, and Kubernetes projects across major cloud platforms.
 
 👐 I’m looking for help with
-Scaling large, distributed systems that require high availability and performance. I’m also exploring advanced strategies for observability, monitoring, and GitOps workflows that can improve developer experience and system reliability at scale.
+Scaling distributed systems, improving observability, and implementing GitOps workflows for reliable deployments.
 
 🌱 I’m currently learning
-
-Advanced Kubernetes patterns, including Operators and Service Meshes
-
-Site Reliability Engineering (SRE) principles for reliability and performance
-
-Cloud security and cost optimization strategies for efficient deployments
+Kubernetes Operators, Service Meshes, SRE practices, cloud security, and cost optimization techniques.
 
 💬 Ask me about
-CI/CD automation, container orchestration, cloud-native deployments, observability with Prometheus, Grafana, and ELK, as well as career growth in DevOps.
+CI/CD automation, Kubernetes, cloud deployments, observability, Prometheus, Grafana, ELK, and DevOps careers.
 
 ⚡ Fun fact
-I love breaking down complex DevOps challenges into simple, automated workflows—because automation is the closest thing to magic in technology.
+I enjoy automating complex DevOps tasks into simple workflows, making technology more efficient.
 
 
 ## 🌐 Socials:
