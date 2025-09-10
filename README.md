@@ -1,5 +1,5 @@
 # 💫 About Me:
-am a DevOps Engineer specializing in designing and deploying scalable cloud-native solutions. My current focus is on leveraging Kubernetes, Docker, and GKE to build resilient systems while ensuring smooth CI/CD automation. I work extensively with Infrastructure as Code tools like Terraform and Ansible to automate infrastructure management and streamline cloud operations across platforms such as GCP, AWS, and Azure.
+I am a DevOps Engineer specializing in designing and deploying scalable cloud-native solutions. My current focus is on leveraging Kubernetes, Docker, and GKE to build resilient systems while ensuring smooth CI/CD automation. I work extensively with Infrastructure as Code tools like Terraform and Ansible to automate infrastructure management and streamline cloud operations across platforms such as GCP, AWS, and Azure.
 
 Collaboration excites me, especially on projects involving cloud-native architectures, production-ready DevOps pipelines, and open-source contributions around Kubernetes and Terraform. I am also keen on working with teams handling large-scale distributed systems and building efficient observability solutions to ensure reliability at scale.
 
